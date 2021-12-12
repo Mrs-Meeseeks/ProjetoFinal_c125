@@ -1,0 +1,13 @@
+com\projeto\personagens\classes\Ferreiro.class
+com\projeto\personagens\Personagem.class
+com\projeto\equipamentos\Equipamento.class
+com\projeto\personagens\Status.class
+com\projeto\main\Main.class
+com\projeto\main\auxiliares\CarregadorPersonagens.class
+com\projeto\equipamentos\armas\Martelo.class
+com\projeto\personagens\classes\Samurai.class
+com\projeto\equipamentos\armas\Cajado.class
+com\projeto\personagens\classes\Mago.class
+com\projeto\equipamentos\TipoEquipamento.class
+com\projeto\equipamentos\armas\Katana.class
+com\projeto\main\auxiliares\Arena.class
